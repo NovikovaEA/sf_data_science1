@@ -26,3 +26,16 @@
 
 ### Краткая информация о данных
 ....
+
+:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/progect_0/README.md#оглавление)
+
+
+### Этапы работы над проектом
+....
+
+:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/progect_0/README.md#оглавление)
+
+### Результаты
+....
+
+:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/progect_0/README.md#оглавление)
