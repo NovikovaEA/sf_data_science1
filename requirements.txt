@@ -1,17 +1,18 @@
+alabaster==0.7.10
 anaconda-client==1.7.2
 anaconda-navigator==2.0.3
 anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1610472525955/work
-anyio @ file:///tmp/build/80754af9/anyio_1617783275907/work/dist
+anyio==3.3.4
 appdirs==1.4.4
 argh==0.26.2
-argon2-cffi @ file:///tmp/build/80754af9/argon2-cffi_1613037097816/work
+argon2-cffi==21.1.0
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
-astroid @ file:///tmp/build/80754af9/astroid_1613500854201/work
-astropy @ file:///tmp/build/80754af9/astropy_1617745353437/work
+astroid==2.6.6
+astropy==4.3.1
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 atomicwrites==1.4.0
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
-autopep8 @ file:///tmp/build/80754af9/autopep8_1615918855173/work
+attrs==21.2.0
+autopep8==1.5.5
 Babel @ file:///tmp/build/80754af9/babel_1607110387436/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
@@ -34,7 +35,7 @@ click @ file:///home/linux1/recipes/ci/click_1610990599742/work
 cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
 clyent==1.2.2
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-conda==4.10.1
+conda==4.10.3
 conda-build==3.21.4
 conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
 conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1618262148928/work
@@ -56,7 +57,7 @@ entrypoints==0.3
 et-xmlfile==1.0.1
 fastcache==1.1.0
 filelock @ file:///home/linux1/recipes/ci/filelock_1610993975404/work
-flake8 @ file:///tmp/build/80754af9/flake8_1615834841867/work
+flake8==3.8.4
 Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
 fsspec @ file:///tmp/build/80754af9/fsspec_1617959894824/work
 future==0.18.2
@@ -66,6 +67,7 @@ gmpy2==2.0.8
 greenlet @ file:///tmp/build/80754af9/greenlet_1611957705398/work
 h5py==2.10.0
 HeapDict==1.0.1
+helpdev==0.7.1
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
 idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
 imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
@@ -128,7 +130,7 @@ nose @ file:///tmp/build/80754af9/nose_1606773131901/work
 notebook @ file:///tmp/build/80754af9/notebook_1616443462982/work
 numba @ file:///tmp/build/80754af9/numba_1616774046117/work
 numexpr @ file:///tmp/build/80754af9/numexpr_1618856167419/work
-numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1618497241363/work
+numpy==1.19.3
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 olefile==0.46
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1615411699337/work
@@ -138,6 +140,7 @@ pandocfilters @ file:///tmp/build/80754af9/pandocfilters_1605120460739/work
 parso==0.7.0
 partd @ file:///tmp/build/80754af9/partd_1618000087440/work
 path @ file:///tmp/build/80754af9/path_1614022220526/work
+pathlib==1.0.1
 pathlib2 @ file:///tmp/build/80754af9/pathlib2_1607024983162/work
 pathspec==0.7.0
 patsy==0.5.1
@@ -167,6 +170,11 @@ pyls-spyder @ file:///tmp/build/80754af9/pyls-spyder_1613849700860/work
 pyodbc===4.0.0-unsupported
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
 pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PyQt5==5.12.3
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+PyQtWebEngine==5.12.1
+PyQtWebEngine-Qt5==5.15.2
 pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1600141720057/work
 PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
 pytest==6.2.3
@@ -187,6 +195,8 @@ requests @ file:///tmp/build/80754af9/requests_1608241421344/work
 rope @ file:///tmp/build/80754af9/rope_1602264064449/work
 Rtree @ file:///tmp/build/80754af9/rtree_1618420845272/work
 ruamel-yaml-conda @ file:///tmp/build/80754af9/ruamel_yaml_1616016699510/work
+ruamel.yaml==0.17.17
+ruamel.yaml.clib==0.2.6
 scikit-image==0.18.1
 scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1614446682169/work
 scipy @ file:///tmp/build/80754af9/scipy_1618855647378/work
