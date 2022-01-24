@@ -1,14 +1,14 @@
 # Проект 1. Анализ вакансии на HeadHunter
 ## Оглавление
-[1. Описание проекта](https://github.com/NovikovaEA/sf_data_science1/blob/main/guess-number-task/README.md#описание-проекта)
+[1. Описание проекта](https://github.com/NovikovaEA/sf_data_science1/tree/main/PROGECT1#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Какой кейс решаем?](https://github.com/NovikovaEA/sf_data_science1/blob/main/guess-number-task/README.md#какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/NovikovaEA/sf_data_science1/tree/main/PROGECT1#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 
-[3. Краткая информация о данных](https://github.com/NovikovaEA/sf_data_science1/blob/main/guess-number-task/README.md#краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/NovikovaEA/sf_data_science1/tree/main/PROGECT1#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
 ### Описание проекта
 Необходимо преобразовать, исследовать, провести EDA анализ и очистить данные, на которыч HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
-:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/guess-number-task/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/tree/main/PROGECT1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 ### Какой кейс решаем
 Базовый анализ структуры данных, преобразование данных, разведывательный анализ, очистка данных
 
@@ -23,17 +23,28 @@
 База резюме, выгруженная с сайта поиска вакансий hh.ru.
 
 ### Краткая информация о данных
-База содержит информацию:'Пол, возраст', 'ЗП', 'Ищет работу на должность:', 'Город, переезд, командировки', 'Занятость', 'График', 'Опыт работы', 'Последнее/нынешнее место работы', 'Последняя/нынешняя должность', 'Образование и ВУЗ', 'Обновление резюме', 'Авто'
+База содержит информацию:
+    'Пол, возраст', 
+    'ЗП', 
+    'Ищет работу на должность:', 
+    'Город, переезд, командировки', 
+    'Занятость', 
+    'График', 
+    'Опыт работы', 
+    'Последнее/нынешнее место работы', 
+    'Последняя/нынешняя должность', 
+    'Образование и ВУЗ', 
+    'Обновление резюме', 
+    'Авто'
 
-:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/guess-number-task/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/tree/main/PROGECT1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/guess-number-task/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/tree/main/PROGECT1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Результаты
 Выполнено преобразование данных, исследование, EDA анализ и очистка данных
-:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/guess-number-task/README.md#оглавление)
-ii
+:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/tree/main/PROGECT1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
