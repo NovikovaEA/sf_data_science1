@@ -2,13 +2,13 @@
 ## Оглавление
 [1. Описание проекта](#описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/NovikovaEA/sf_data_science1/blob/main/project_0/README.md#какой-кейс-решаем)
+[2. Какой кейс решаем?](#какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/NovikovaEA/sf_data_science1/blob/main/project_0/README.md#краткая-информация-о-данных)
+[3. Краткая информация о данных](#краткая-информация-о-данных)
 
 ### Описание проекта
 Угадывать загаданное компьютером число за минимальное количество попыток
-:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 ### Какой кейс решаем
 Нужно написать программу, которая угадывает число за минимальное количксвто попыток
 
@@ -27,15 +27,15 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 ### Результаты
 ....
 
-:arrow_up:[к оглавлению](https://github.com/NovikovaEA/sf_data_science1/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](#оглавление)
