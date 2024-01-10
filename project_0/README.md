@@ -1,6 +1,6 @@
 # Проект 0. Угадай число
 ## Оглавление
-[1. Описание проекта](https://github.com/NovikovaEA/sf_data_science1/blob/main/guess-number-task/README.md#описание-проекта)
+[1. Описание проекта](https://github.com/NovikovaEA/sf_data_science1/blob/main/project_0/README.md#описание-проекта)
 
 [2. Какой кейс решаем?](https://github.com/NovikovaEA/sf_data_science1/blob/main/guess-number-task/README.md#какой-кейс-решаем)
 
